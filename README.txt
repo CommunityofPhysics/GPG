@@ -1,2 +1,2 @@
 # RESEARCH
-GitHub repository for Division of Experimentation, Community of Physics.
+GitHub repository for the Division of Experimentation, Community of Physics.
