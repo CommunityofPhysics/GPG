@@ -3,7 +3,7 @@ GitHub repository for the Division of Experimentation, Community of Physics.
 
 ** How to set up a Python environment **
 
-  1. Install the latest version of Python (with the appropiate architecture) from the official website.
+  1. Install the latest version of Python (with the appropriate architecture) from the official website.
   2. During installation, make sure to tick the checkbox that says 'Add Python to Path'
   3. After installation is complete, open a command-line with admin priviledges and type the following
             python -m pip install --upgrade pip
