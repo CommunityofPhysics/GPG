@@ -1,6 +1,3 @@
-RESEARCH
-GitHub repository for the Division of Experimentation, Community of Physics.
-
 ** How to set up a Python environment **
 
   1. Install the latest version of Python (with the appropriate architecture) from the official website.
